@@ -7,6 +7,11 @@ Projeto de teste github
 °Alvaro Henrique, ES
 °Igor Trindade, ES
 
+# Redes Sociais 
+GITHUB: Pshyato12 - Erick
+GITHUB: veizalcolotra-png - Alvaro
+GITHUB: IgorFreitasES - Igor
+
 ## Linguagens e tecnologias aprendidas
 
 - HTML
