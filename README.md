@@ -8,9 +8,9 @@ Projeto de teste github
 °Igor Trindade, ES
 
 # Redes Sociais 
-GITHUB: Pshyato12 - Erick
-GITHUB: veizalcolotra-png - Alvaro
-GITHUB: IgorFreitasES - Igor
+GitHub: Pshyato12 - Erick
+GitHub: veizalcolotra-png - Alvaro
+GitHub: IgorFreitasES - Igor
 
 ## Linguagens e tecnologias aprendidas
 
